@@ -2,7 +2,6 @@
 
 ![SQL Server](https://img.shields.io/badge/Microsoft%20SQL%20Server-2022-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
 ![Status](https://img.shields.io/badge/Status-Completado-brightgreen?style=for-the-badge)
-![UNAM](https://img.shields.io/badge/FI-UNAM-gold?style=for-the-badge)
 
 Este repositorio contiene el diseño e implementación completa de una base de datos relacional para la gestión integral de una compañía de seguros. El proyecto abarca desde el modelado de datos hasta la implementación de reglas de negocio complejas mediante Triggers, seguridad basada en roles y generación de informes estadísticos.
 
